@@ -10,3 +10,20 @@ canvas {
   width: 100vw !important;
   height: 100vh !important;
 }
+
+label {
+  font-size: 2.5rem;
+}
+
+input {
+  font-size: 2rem;
+}
+
+textarea {
+  font-size: 1.5rem;
+}
+
+h1 {
+  margin: unset;
+  font-size: 4rem;
+}

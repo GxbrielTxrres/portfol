@@ -1,0 +1,10 @@
+.rotate {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin-top: 10px;
+  font-size: 2rem;
+  border-radius: 5px;
+}

@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/core": "^7.20.2",
     "@react-three/drei": "^9.40.0",
     "@react-three/fiber": "^8.9.1",
     "@react-three/rapier": "^0.10.0",
+    "babel-plugin-glsl": "^1.0.0",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.2",
+    "fs": "^0.0.1-security",
     "next": "13.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",

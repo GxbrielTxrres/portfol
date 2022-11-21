@@ -13,7 +13,7 @@ function Pointer() {
   });
   return (
     <RigidBody type="kinematicPosition" colliders={false} ref={ref}>
-      <MarchingCube strength={0.5} subtract={10} color="white" />
+      <MarchingCube strength={0.8} subtract={50} color="white" />
       <BallCollider args={[0.1]} type="dynamic" />
     </RigidBody>
   );
